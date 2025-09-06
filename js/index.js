@@ -940,5 +940,7 @@ window.onload = function () {
         debug.innerText = tmp;
         debug.classList.add("hide");
     }
+
+    document.getElementById('gui').hidden = true;
 };
 

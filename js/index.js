@@ -11,7 +11,7 @@ window.onload = function () {
         ui_characters_customCharset: "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ()._,-=+*/\\:;\'\"<>?!@#$%&^[]{}",
         ui_font_customFont: "monospace",
         ui_font_size: 15,
-        codes: makeCodes("ALL YOUR CODEBASE ARE BELONG TO US,jetzig-framework,ziglang,zig,jetzig,zigtools,zls,karlseguin,jetquery,jetkv,jetcommon"),
+        codes: makeCodes("ALL YOUR CODEBASE ARE BELONG TO US,JETZIG-FRAMEWORK,ZIGLANG,ZIG,JETZIG,ZIGTOOLS,ZLS,KARLSEGUIN,JETQUERY,JETKV,JETCOMMON"),
         matrixColor: rgbToHue([229, 165, 10]),
         ui_color_highlightFirstCharacter: true,
         ui_logo_scale: 1,
